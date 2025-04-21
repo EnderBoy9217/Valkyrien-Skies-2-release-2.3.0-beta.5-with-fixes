@@ -15,6 +15,7 @@
     "accessors.world.level.block.StairBlockAccessor",
     "accessors.world.level.pathfinder.PathAccessor",
     "commands.argument.selector.MixinEntitySelectorParser",
+    "entity.MixinArrow",
     "entity.MixinEntity",
     "feature.ai.node_evaluator.PathNavigationRegionAccessor",
     "feature.ai.node_evaluator.SwimNodeEvaluatorMixin",
